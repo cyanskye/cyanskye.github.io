@@ -1,2 +1,5 @@
 # cyanskye.github.io
-我的个人站
+
+Personal homepage for magicsang.
+
+Site: https://cyanskye.github.io
